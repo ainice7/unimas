@@ -1,0 +1,119 @@
+.profile-header {
+  .tabs-component-tabs {
+    display: flex;
+    border-top: 1px solid $black;
+    position: relative;
+    padding-bottom: 10px  ;
+
+    .tabs-component-tab {
+      text-transform: uppercase;
+      margin-right: 5px;
+      display: block;
+      padding: 10px 20px;
+      font-size: 12px;
+      color: $light-gray;
+      font-weight: 700;
+      position: relative;
+      z-index: 1;
+      top: -1px;
+      border-top: solid 2px transparent;
+    }
+    .tabs-component-tab.is-active, .tabs-component-tab:hover {
+      color: $color-primary!important;
+      border-top: solid 2px $color-primary;
+
+    }
+  }
+  .tabs-component-tabs:after {
+    content: "";
+    display: block;
+    position: absolute;
+    bottom: 0;
+    right: -20px;
+    left: -20px;
+    height: 10px;
+    background-color: $body-background ;
+  }
+}
+
+.profile-aside {
+  .tabs-component {
+    height: 100%;
+    background-color: $white;
+    @include breakpoint-mf(sm) {
+      max-width: 350px;
+    }
+  }
+  .tabs-component-tabs {
+    padding: 17px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: $primary-background;
+    @include breakpoint-mf(md) {
+      border-bottom: 5px solid $body-background;
+    }
+  }
+  .follow {
+    display: inline-block;
+    @include sprite($no-active-follow)
+  }
+  .follow:hover {
+    @include sprite($active-follow)
+  }
+  .add-user {
+    display: inline-block;
+    @include sprite($no-active-add-user)
+  }
+  .add-user:hover {
+    @include sprite($active-add-user)
+  }
+  .ticket {
+    display: inline-block;
+    @include sprite($no-active-ticket)
+  }
+  .ticket:hover {
+    @include sprite($active-ticket)
+  }
+  .note {
+    display: inline-block;
+    @include sprite($no-active-note)
+  }
+  .note:hover {
+    @include sprite($active-note)
+  }
+  .reminder {
+    display: inline-block;
+    @include sprite($no-acteve-reminder)
+  }
+  .reminder:hover {
+    @include sprite($active-reminder)
+  }
+  .settings{
+    display: inline-block;
+    @include sprite($admin)
+  }
+  .settings:hover {
+    @include sprite($active-settings)
+  }
+  .is-active {
+    .follow {
+      @include sprite($active-follow)
+    }
+    .add-user {
+      @include sprite($active-add-user)
+    }
+    .ticket {
+      @include sprite($active-ticket)
+    }
+    .note {
+      @include sprite($active-note)
+    }
+    .reminder {
+      @include sprite($active-reminder)
+    }
+    .settings {
+      @include sprite($active-settings)
+    }
+  }
+}

@@ -1,0 +1,49 @@
+@import '~vue-select/src/scss/vue-select';
+.user-info {
+  .vs__dropdown-toggle {
+    cursor: pointer;
+    width: 100%;
+    padding: 5px;
+    font-weight: 300;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: none;
+    border-radius: 3px;
+    outline: none;
+    font-size: 16px;
+    .vs__actions {
+      display: none;
+    }
+    .vs__selected-options:after {
+      content: "";
+      display: inline-block;
+      @include sprite($arrow-for-status-select);
+      margin-top: 10px;
+      transition: all 0.2s;
+    }
+    .vs__selected-options {
+      cursor: pointer;
+      input{
+        cursor: pointer;
+      }
+    }
+    .vs--open {
+      .vs__selected-options:after {
+        transform: rotate(180deg) !important;
+      }
+    }
+  }
+  .vs__dropdown-menu > li:hover {
+    background-color: $color-primary;
+  }
+  .vs__dropdown-option--highlight {
+    background: $color-primary;
+    color: $vs-state-active-color;
+  }
+
+  .vs__dropdown-option--disabled {
+    background: inherit;
+    color: $vs-state-disabled-color;
+  }
+}
+

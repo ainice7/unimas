@@ -1,0 +1,1169 @@
+{
+  "users": [
+  {
+    "id": 1,
+    "name": "Julie Sweet",
+    "position": "PROJECT MANAGER",
+    "status": "Within Offer Process",
+    "attention": false,
+    "department": "Marketing Department",
+    "company": "Biohab",
+    "startDate": "Sat May 27 2006 22:38:32 GMT+0000 (UTC)",
+    "nickname": "Head",
+    "birthDate": "Sat Dec 31 1977 18:10:41 GMT+0000 (UTC)",
+    "age": 34,
+    "workAddress": "374 Cooke Court, Roosevelt, Massachusetts, 7186",
+    "homeAddress": "Lisco",
+    "homeSubAddress": "Beaver Street",
+    "email": "mail@gmail.com",
+    "homePhone": "(805) 549-2588",
+    "mobilePhone": "(927) 581-2163",
+    "workPhone": "(830) 557-2571",
+    "task": {
+      "type": "waiting",
+      "description": "Application to be reviewed",
+      "tasks": [
+        {
+          "id": 1,
+          "tittle": "Development Skills Face to Face Interview",
+          "status": "w/Mary Brown in Head Office Tel Aviv at 4 PM",
+          "type": "reminder",
+          "interview": false
+        },
+        {
+          "id": 2,
+          "tittle": "PROJECT MANAGER Skills Conference Skype Call",
+          "status": "w/Mary Brown at 4 PM",
+          "type": "review",
+          "interview": false
+        }
+      ]
+    },
+    "avatar": "https://www.hoganlovells.com/~/media/hogan-lovells/images/people_and_bio_photos/g/gemptel_julie_l80595.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Keisha Herring",
+    "position": "IT ANALYST",
+    "status": "Candidate Application Review",
+    "attention": false,
+    "department": "Marketing Department",
+    "company": "Dreamia",
+    "startDate": "Fri Feb 02 2007 22:05:01 GMT+0000 (UTC)",
+    "nickname": "Matilda",
+    "birthDate": "Sat Sep 24 1983 21:03:30 GMT+0000 (UTC)",
+    "age": 43,
+    "workAddress": "206 Louisiana Avenue, Detroit, Ohio, 1055",
+    "homeAddress": "Farmers",
+    "homeSubAddress": "McDonald Avenue",
+    "email": "mail@gmail.com",
+    "homePhone": "(817) 515-3354",
+    "mobilePhone": "(886) 551-3009",
+    "workPhone": "(943) 496-3490",
+    "task": {
+      "type": "todo",
+      "description": "2 to-dos due for Face to Face Interview",
+      "tasks": [
+        {
+          "id": 1,
+          "tittle": "Development Skills Face to Face Interview",
+          "status": "John Smith, about 3 months ago",
+          "type": "reminder",
+          "interview": false
+        },
+        {
+          "id": 2,
+          "tittle": "IT ANALYST Skills Conference Skype Call",
+          "status": "John Smith, about 3 months ago",
+          "type": "reminder",
+          "interview": false
+        }
+      ]
+    },
+    "avatar": "https://www.froedtert.com/sites/default/files/styles/four_column/public/doctors/images/keisha-rogers-1861835365.jpg?itok=wCrM1a6p"
+  },
+  {
+    "id": 21,
+    "name": "Bridgett Henderson",
+    "position": "FRONT END DEVELOPER",
+    "status": "Hired",
+    "attention": true,
+    "department": "Marketing Department",
+    "company": "Parleynet",
+    "startDate": "Mon Mar 02 2009 10:37:48 GMT+0000 (UTC)",
+    "nickname": "Tisha",
+    "birthDate": "Sun Oct 19 1980 21:21:06 GMT+0000 (UTC)",
+    "age": 23,
+    "workAddress": "452 Prospect Place, Yukon, Alabama, 890",
+    "homeAddress": "Williamson",
+    "homeSubAddress": "Ovington Avenue",
+    "email": "mail@gmail.com",
+    "homePhone": "(988) 492-3735",
+    "mobilePhone": "(878) 481-2448",
+    "workPhone": "(891) 552-3077",
+    "task": {
+      "type": "decision",
+      "description": "Needs decision \"Face to Face Interview\"",
+      "tasks": [
+        {
+          "id": 1,
+          "tittle": "Face To Face Interview",
+          "status": "",
+          "type": "interview",
+          "interview": {
+            "answer": "yes",
+            "interviewerName": "Alexandria Shannon",
+            "interviewerPhoto": "https://www.peakdentalarts.com/wp2016/wp-content/uploads/2016/07/Shannon.jpg"
+          }
+        },
+        {
+          "id": 2,
+          "tittle": "Advance Bridgett Henderson to Offer?",
+          "status": "",
+          "type": "offer",
+          "interview": false
+        }
+      ]
+    },
+    "avatar": "https://lh5.googleusercontent.com/-EwrbNt00MWE/AAAAAAAAAAI/AAAAAAAAA60/T-M9Xi0mjZI/photo.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Diana Barton",
+    "position": "IT MANAGER",
+    "status": "Candidate Application Review",
+    "attention": true,
+    "department": "Marketing Department",
+    "company": "Temorak",
+    "startDate": "Fri Dec 25 2015 22:12:31 GMT+0000 (UTC)",
+    "nickname": "Gwendolyn",
+    "birthDate": "Thu Dec 25 1980 00:31:46 GMT+0000 (UTC)",
+    "age": 22,
+    "workAddress": "754 Christopher Avenue, Dodge, Oregon, 9111",
+    "homeAddress": "Abiquiu",
+    "homeSubAddress": "Himrod Street",
+    "email": "mail@gmail.com",
+    "homePhone": "(971) 450-3705",
+    "mobilePhone": "(883) 548-2943",
+    "workPhone": "(866) 509-3014",
+    "task": {
+      "type": "interview",
+      "description": "2 interviews today",
+      "tasks": [
+        {
+          "id": 1,
+          "tittle": "Development Skills Face to Face Interview",
+          "status": "w/Mary Brown in Head Office Tel Aviv at 4 PM",
+          "type": "re-schedule",
+          "interview": false
+        },
+        {
+          "id": 2,
+          "tittle": "IT MANAGER Skills Conference Skype Call",
+          "status": "w/Mary Brown at 4 PM",
+          "type": "re-schedule",
+          "interview": false
+        }
+      ]
+    },
+    "avatar": "https://pbs.twimg.com/profile_images/1554754411/Green_Girl_2010_400x400.JPG"
+  },
+  {
+    "id": 41,
+    "name": "Baxter Dawson",
+    "position": "PHP DEVELOPER",
+    "status": "Hired",
+    "attention": false,
+    "department": "Marketing Department",
+    "company": "Geekmosis",
+    "startDate": "Sun Apr 11 2010 12:53:23 GMT+0000 (UTC)",
+    "nickname": "Gladys",
+    "birthDate": "Sat Aug 07 1982 02:44:27 GMT+0000 (UTC)",
+    "age": 38,
+    "workAddress": "910 Rose Street, Elfrida, North Dakota, 2165",
+    "homeAddress": "Interlochen",
+    "homeSubAddress": "Oceanic Avenue",
+    "email": "mail@gmail.com",
+    "homePhone": "(905) 465-2272",
+    "mobilePhone": "(807) 592-3920",
+    "workPhone": "(813) 430-3665",
+    "task": {
+      "type": "waiting",
+      "description": "Waiting for candidate to submit test",
+      "tasks": [
+        {
+          "id": 1,
+          "tittle": "Development Skills Test",
+          "status": "Sent, 14 days ago",
+          "interview": false,
+          "type": "vendor"
+        }
+      ]
+    },
+    "avatar": "https://media-exp1.licdn.com/dms/image/C5603AQHI1qHmWEgPWQ/profile-displayphoto-shrink_200_200/0?e=1585180800&v=beta&t=eTUVDIBpRe-D9WiBL1KgsN9G2zN4asQUxJFhne7Ty0k"
+  },
+  {
+    "id": 51,
+    "name": "Horne Guerra",
+    "position": "INFORMATION RESEARCH SCIENTIST",
+    "status": "Within Offer Process",
+    "attention": false,
+    "department": "Marketing Department",
+    "company": "Vinch",
+    "startDate": "Sun Jan 20 2013 18:14:00 GMT+0000 (UTC)",
+    "nickname": "Medina",
+    "birthDate": "Thu Mar 29 1979 00:29:46 GMT+0000 (UTC)",
+    "age": 39,
+    "workAddress": "251 Vista Place, Brule, District Of Columbia, 7669",
+    "homeAddress": "Tyhee",
+    "homeSubAddress": "Clarkson Avenue",
+    "email": "mail@gmail.com",
+    "homePhone": "(837) 523-3871",
+    "mobilePhone": "(823) 445-3610",
+    "workPhone": "(971) 528-2779",
+    "task": {
+      "type": "waiting",
+      "description": "Waiting for candidate to submit test",
+      "tasks": [
+        {
+          "id": 1,
+          "tittle": "Development Skills Test",
+          "status": "Sent, 5 days ago",
+          "interview": false,
+          "type": "vendor"
+        }
+      ]
+    },
+    "avatar": "https://i1.rgstatic.net/ii/profile.image/551685531213825-1508543488834_Q512/Damian_Guerra.jpg"
+  },
+  {
+    "id": 61,
+    "name": "Rae Santana",
+    "position": "FRONT END DEVELOPER",
+    "status": "Candidate Application Review",
+    "attention": true,
+    "department": "Marketing Department",
+    "company": "Austex",
+    "startDate": "Sat Aug 06 2005 02:07:59 GMT+0000 (UTC)",
+    "nickname": "Lindsay",
+    "birthDate": "Sun Aug 02 1981 02:36:00 GMT+0000 (UTC)",
+    "age": 29,
+    "workAddress": "194 Kingsland Avenue, Cliff, Oklahoma, 8214",
+    "homeAddress": "Manila",
+    "homeSubAddress": "Coleman Street",
+    "email": "mail@gmail.com",
+    "homePhone": "(993) 513-2158",
+    "mobilePhone": "(996) 442-3185",
+    "workPhone": "(829) 523-2223",
+    "task": {
+      "type": "review",
+      "description": "Application to be reviewed",
+      "tasks": [
+        {
+          "id": 1,
+          "tittle": "Development Skills Face to Face Interview",
+          "status": "w/Mary Brown in Head Office Tel Aviv at 4 PM",
+          "type": "review",
+          "interview": false
+        },
+        {
+          "id": 2,
+          "tittle": "Front-End Skills Conference Skype Call",
+          "status": "w/Mary Brown at 4 PM",
+          "type": "review",
+          "interview": false
+        }
+      ]
+    },
+    "avatar": "https://www.bailbondsearch.com/mugshots/new_mexico/donaana/SANTANA-1900007242.jpg"
+  },
+  {
+    "id": 71,
+    "name": "Joyce Bryant",
+    "position": "DATABASE ADMINISTRATOR",
+    "status": "Candidate Application Review",
+    "attention": true,
+    "department": "Marketing Department",
+    "company": "Balooba",
+    "startDate": "Sat Jun 16 2007 17:17:19 GMT+0000 (UTC)",
+    "nickname": "Melendez",
+    "birthDate": "Thu Oct 26 1978 04:06:53 GMT+0000 (UTC)",
+    "age": 48,
+    "workAddress": "885 Bristol Street, Westwood, Washington, 3443",
+    "homeAddress": "Clarksburg",
+    "homeSubAddress": "Ross Street",
+    "email": "mail@gmail.com",
+    "homePhone": "(814) 538-2385",
+    "mobilePhone": "(956) 546-3270",
+    "workPhone": "(820) 460-3839",
+    "task": {
+      "type": "review",
+      "description": "Application to be reviewed",
+      "tasks": [
+        {
+          "id": 1,
+          "tittle": "Development Skills Face to Face Interview",
+          "status": "w/Mary Brown in Head Office Tel Aviv at 4 PM",
+          "type": "review",
+          "interview": false
+        },
+        {
+          "id": 2,
+          "tittle": "DATABASE Skills Conference Skype Call",
+          "status": "w/Mary Brown at 4 PM",
+          "type": "review",
+          "interview": false
+        }
+      ]
+    },
+    "avatar": "https://esvirot.net/wp-content/uploads/2017/03/Joyce-Bryant.jpg"
+  },
+  {
+    "id": 81,
+    "name": "Geraldine Stafford",
+    "position": "DESIGNER",
+    "status": "Within Offer Process",
+    "attention": false,
+    "department": "Marketing Department",
+    "company": "Prosely",
+    "startDate": "Sat Feb 28 2009 19:25:00 GMT+0000 (UTC)",
+    "nickname": "Raymond",
+    "birthDate": "Thu Oct 09 1986 20:24:42 GMT+0000 (UTC)",
+    "age": 34,
+    "workAddress": "676 Gelston Avenue, Clara, Maryland, 7809",
+    "homeAddress": "Kohatk",
+    "homeSubAddress": "Dahill Road",
+    "email": "mail@gmail.com",
+    "homePhone": "(986) 533-2170",
+    "mobilePhone": "(846) 594-3624",
+    "workPhone": "(910) 495-2749",
+    "task": {
+      "type": "todo",
+      "description": "2 to-dos due for Face to Face Interview",
+      "tasks": [
+        {
+          "id": 1,
+          "tittle": "Development Skills Face to Face Interview",
+          "status": "John Smith, about 2 months ago",
+          "type": "reminder",
+          "interview": false
+        },
+        {
+          "id": 2,
+          "tittle": "Designer Skills Conference Skype Call",
+          "status": "John Smith, about 2 months ago",
+          "type": "reminder",
+          "interview": false
+        }
+      ]
+    },
+    "avatar": "https://pbs.twimg.com/profile_images/789107112471212033/-nyVRwqL_400x400.jpg"
+  },
+  {
+    "id": 91,
+    "name": "Sanchez Atkinson",
+    "position": "DATABASE ADMINISTRATOR",
+    "status": "Within Offer Process",
+    "attention": true,
+    "department": "Marketing Department",
+    "company": "Zentime",
+    "startDate": "Sat Aug 06 2011 09:37:19 GMT+0000 (UTC)",
+    "nickname": "Henrietta",
+    "birthDate": "Wed Jul 26 1989 02:55:46 GMT+0000 (UTC)",
+    "age": 22,
+    "workAddress": "101 Meserole Street, Connerton, Louisiana, 8711",
+    "homeAddress": "Gerber",
+    "homeSubAddress": "Kansas Place",
+    "email": "mail@gmail.com",
+    "homePhone": "(942) 533-2299",
+    "mobilePhone": "(894) 538-2168",
+    "workPhone": "(921) 401-2181",
+    "task": {
+      "type": "test",
+      "description": "Take home Test to be sent",
+      "tasks": [
+        {
+          "id": 1,
+          "tittle": "Development Skills Test",
+          "status": "",
+          "type": "test",
+          "interview": false
+        }
+      ]
+    },
+    "avatar": "https://2.bp.blogspot.com/-La7S59Nytsc/XBKtPNxwQbI/AAAAAAAAtK4/H5GbjHK4xn4VB811JJcrYFLB12zkK5asACLcBGAs/s1600/TREYEYE.jpg"
+  },
+  {
+    "id": 101,
+    "name": "Marlene Massey",
+    "position": "PHP DEVELOPER",
+    "status": "Candidate Application Review",
+    "attention": true,
+    "department": "Marketing Department",
+    "company": "Qimonk",
+    "startDate": "Sun Oct 24 2010 03:19:30 GMT+0000 (UTC)",
+    "nickname": "Alfreda",
+    "birthDate": "Thu Feb 06 1986 15:16:19 GMT+0000 (UTC)",
+    "age": 22,
+    "workAddress": "460 Baycliff Terrace, Colton, Montana, 684",
+    "homeAddress": "Rote",
+    "homeSubAddress": "Knight Court",
+    "email": "mail@gmail.com",
+    "homePhone": "(957) 586-3711",
+    "mobilePhone": "(859) 534-2841",
+    "workPhone": "(810) 557-3645",
+    "task": {
+      "type": "todo",
+      "description": "2 to-dos due for Face to Face Interview",
+      "tasks": [
+        {
+          "id": 1,
+          "tittle": "Development Skills Face to Face Interview",
+          "status": "John Smith, about 1 months ago",
+          "type": "reminder",
+          "interview": false
+        },
+        {
+          "id": 2,
+          "tittle": "PHP Skills Conference Skype Call",
+          "status": "John Smith, about 1 months ago",
+          "type": "reminder",
+          "interview": false
+        }
+      ]
+    },
+    "avatar": "https://imageserver.propertysuite.co.nz/propertybrokers/full/135AA4/Marlene-Bonner-BC-jpg.jpg"
+  },
+  {
+    "id": 111,
+    "name": "Wilson Melton",
+    "position": "JAVA DEVELOPER",
+    "status": "Candidate Application Review",
+    "attention": false,
+    "department": "Marketing Department",
+    "company": "Recrisys",
+    "startDate": "Sat Aug 23 2008 22:12:41 GMT+0000 (UTC)",
+    "nickname": "Lolita",
+    "birthDate": "Wed Sep 03 1969 07:32:14 GMT+0000 (UTC)",
+    "age": 36,
+    "workAddress": "403 Tennis Court, Temperanceville, New Hampshire, 7250",
+    "homeAddress": "Jacumba",
+    "homeSubAddress": "Victor Road",
+    "email": "mail@gmail.com",
+    "homePhone": "(928) 400-2712",
+    "mobilePhone": "(843) 453-2723",
+    "workPhone": "(826) 527-3998",
+    "task": {
+      "type": "test",
+      "description": "Take home Test to be sent",
+      "tasks": [
+        {
+          "id": 1,
+          "tittle": "Development Skills Test",
+          "status": "",
+          "type": "test",
+          "interview": false
+        }
+      ]
+    },
+    "avatar": "https://cdn6.ep.dynamics.net/s3/rw-media/memberphotos/12dba028-b9a9-4cf7-8459-e95b4bdc53ee.jpg?mode=pad&scale=both&maxwidth=285&quality=80&anchor=middleleft&format=png"
+  },
+  {
+    "id": 121,
+    "name": "Yates Wise",
+    "position": "FRONT END DEVELOPER",
+    "status": "Candidate Application Review",
+    "attention": true,
+    "department": "Marketing Department",
+    "company": "Toyletry",
+    "startDate": "Mon Dec 05 2011 10:42:19 GMT+0000 (UTC)",
+    "nickname": "Anne",
+    "birthDate": "Wed Feb 13 1985 14:30:49 GMT+0000 (UTC)",
+    "age": 26,
+    "workAddress": "168 Kings Hwy, Newry, Northern Mariana Islands, 4079",
+    "homeAddress": "Biddle",
+    "homeSubAddress": "Schenck Street",
+    "email": "mail@gmail.com",
+    "homePhone": "(986) 510-3903",
+    "mobilePhone": "(845) 546-3198",
+    "workPhone": "(882) 552-3543",
+    "task": {
+      "type": "schedule",
+      "description": "2 interviews to schedule for Phone Interview",
+      "tasks": [
+        {
+          "id": 1,
+          "tittle": "Development Skills Phone Interview",
+          "status": "",
+          "type": "scheduled",
+          "interview": false
+        },
+        {
+          "id": 2,
+          "tittle": "FRONT END Skills Conference Skype Call",
+          "status": "Interview time was proposed 3 days ago",
+          "type": "scheduled",
+          "interview": false
+        }
+      ]
+    },
+    "avatar": "https://s.hdnux.com/photos/04/53/03/1224915/3/920x920.jpg"
+  },
+  {
+    "id": 131,
+    "name": "Vance Shepard",
+    "position": "INFORMATION RESEARCH SCIENTIST",
+    "status": "Within Offer Process",
+    "attention": true,
+    "department": "Marketing Department",
+    "company": "Pasturia",
+    "startDate": "Mon Mar 06 2006 02:26:39 GMT+0000 (UTC)",
+    "nickname": "Esmeralda",
+    "birthDate": "Tue Feb 01 1994 16:55:56 GMT+0000 (UTC)",
+    "age": 37,
+    "workAddress": "962 Catherine Street, Gorst, Arizona, 3168",
+    "homeAddress": "Cleary",
+    "homeSubAddress": "Johnson Avenue",
+    "email": "mail@gmail.com",
+    "homePhone": "(919) 524-3974",
+    "mobilePhone": "(858) 490-3967",
+    "workPhone": "(998) 503-2600",
+    "task": {
+      "type": "schedule",
+      "description": "2 interviews to schedule for Phone Interview",
+      "tasks": [
+        {
+          "id": 1,
+          "tittle": "Development Skills Phone Interview",
+          "status": "",
+          "type": "scheduled",
+          "interview": false
+        },
+        {
+          "id": 2,
+          "tittle": "INFORMATION RESEARCH Skills Conference Skype Call",
+          "status": "Interview time was proposed 6 days ago",
+          "type": "scheduled",
+          "interview": false
+        }
+      ]
+    },
+    "avatar": "https://pbs.twimg.com/profile_images/703776475254759428/32FvbJ6u.jpg"
+  },
+  {
+    "id": 141,
+    "name": "Ryan Rasmussen",
+    "position": "PHP DEVELOPER",
+    "status": "Hired",
+    "attention": false,
+    "department": "Marketing Department",
+    "company": "Deminimum",
+    "startDate": "Wed Mar 09 2016 15:18:21 GMT+0000 (UTC)",
+    "nickname": "Duke",
+    "birthDate": "Sat Jan 29 1972 05:39:53 GMT+0000 (UTC)",
+    "age": 23,
+    "workAddress": "249 Chapel Street, Kimmell, Rhode Island, 9263",
+    "homeAddress": "Weedville",
+    "homeSubAddress": "Diamond Street",
+    "email": "mail@gmail.com",
+    "homePhone": "(941) 503-3910",
+    "mobilePhone": "(854) 442-3815",
+    "workPhone": "(893) 514-3610",
+    "task": {
+      "type": "todo",
+      "description": "2 to-dos due for Face to Face Interview",
+      "tasks": [
+        {
+          "id": 1,
+          "tittle": "Development Skills Face to Face Interview",
+          "status": "John Smith, about 4 months ago",
+          "type": "reminder",
+          "interview": false
+        },
+        {
+          "id": 2,
+          "tittle": "PHP Skills Conference Skype Call",
+          "status": "John Smith, about 4 months ago",
+          "type": "reminder",
+          "interview": false
+        }
+      ]
+    },
+    "avatar": "https://pbs.twimg.com/profile_images/1177610734110306306/4sUqkW18_400x400.jpg"
+  },
+  {
+    "id": 151,
+    "name": "Sharon Huffman",
+    "position": "QA ENGINEER",
+    "status": "Candidate Application Review",
+    "attention": true,
+    "department": "Marketing Department",
+    "company": "Optyk",
+    "startDate": "Wed Jan 16 2013 14:27:25 GMT+0000 (UTC)",
+    "nickname": "Yvonne",
+    "birthDate": "Wed Feb 06 1991 03:28:00 GMT+0000 (UTC)",
+    "age": 33,
+    "workAddress": "262 Sands Street, Convent, Illinois, 2851",
+    "homeAddress": "Gorham",
+    "homeSubAddress": "Veronica Place",
+    "email": "mail@gmail.com",
+    "homePhone": "(849) 555-2589",
+    "mobilePhone": "(833) 552-2112",
+    "workPhone": "(921) 508-2266",
+    "task": {
+      "type": "test",
+      "description": "Take home Test to be sent",
+      "tasks": [
+        {
+          "id": 1,
+          "tittle": "Development Skills Test",
+          "status": "",
+          "type": "test",
+          "interview": false
+        }
+      ]
+    },
+    "avatar": "https://pbs.twimg.com/profile_images/1045021710515232768/jz0c4asv.jpg"
+  },
+  {
+    "id": 161,
+    "name": "Esther Gibson",
+    "position": "QA ENGINEER",
+    "status": "Within Offer Process",
+    "attention": false,
+    "department": "Marketing Department",
+    "company": "Portalis",
+    "startDate": "Wed Sep 03 2014 17:48:41 GMT+0000 (UTC)",
+    "nickname": "Gillespie",
+    "birthDate": "Wed Jun 07 1972 02:19:18 GMT+0000 (UTC)",
+    "age": 45,
+    "workAddress": "396 Grace Court, Sugartown, Nevada, 4273",
+    "homeAddress": "Tyro",
+    "homeSubAddress": "Bowne Street",
+    "email": "mail@gmail.com",
+    "homePhone": "(976) 579-2254",
+    "mobilePhone": "(984) 480-3446",
+    "workPhone": "(968) 553-3055",
+    "task": {
+      "type": "test",
+      "description": "Take home Test to be sent",
+      "tasks": [
+        {
+          "id": 1,
+          "tittle": "Development Skills Test",
+          "status": "",
+          "type": "test",
+          "interview": false
+        }
+      ]
+    },
+    "avatar": "https://media-exp1.licdn.com/dms/image/C4E03AQGV1VQXDCSt9g/profile-displayphoto-shrink_200_200/0?e=1584576000&v=beta&t=ubQCFjQaoh01JzrhtBJB8nD1vWqZ-Pl5NFUqWa_o5dM"
+  },
+  {
+    "id": 171,
+    "name": "Tonya Tucker",
+    "position": "DESIGNER",
+    "status": "Candidate Application Review",
+    "attention": true,
+    "department": "Marketing Department",
+    "company": "Bullzone",
+    "startDate": "Sat Oct 14 2017 00:04:19 GMT+0000 (UTC)",
+    "nickname": "Marci",
+    "birthDate": "Fri Mar 02 1979 09:48:51 GMT+0000 (UTC)",
+    "age": 43,
+    "workAddress": "411 Union Avenue, Harviell, Georgia, 7323",
+    "homeAddress": "Jennings",
+    "homeSubAddress": "Abbey Court",
+    "email": "mail@gmail.com",
+    "homePhone": "(882) 455-3048",
+    "mobilePhone": "(933) 491-2070",
+    "workPhone": "(873) 558-2701",
+    "task": {
+      "type": "review",
+      "description": "Application to be reviewed",
+      "tasks": [
+        {
+          "id": 1,
+          "tittle": "Development Skills Face to Face Interview",
+          "status": "w/Mary Brown in Head Office Tel Aviv at 4 PM",
+          "type": "review",
+          "interview": false
+        },
+        {
+          "id": 2,
+          "tittle": "DESIGNER Skills Conference Skype Call",
+          "status": "w/Mary Brown at 4 PM",
+          "type": "review",
+          "interview": false
+        }
+      ]
+    },
+    "avatar": "http://elementshairstudio.net/wp-content/uploads/2015/06/Tonya-Tucker.jpg"
+  },
+  {
+    "id": 181,
+    "name": "Stuart Buckner",
+    "position": "RECRUITER",
+    "status": "Candidate Application Review",
+    "attention": true,
+    "department": "Marketing Department",
+    "company": "Viagrand",
+    "startDate": "Tue Aug 09 2005 00:25:21 GMT+0000 (UTC)",
+    "nickname": "Susanna",
+    "birthDate": "Tue Oct 21 1980 08:37:00 GMT+0000 (UTC)",
+    "age": 32,
+    "workAddress": "461 Keap Street, Dixonville, Puerto Rico, 6113",
+    "homeAddress": "Stouchsburg",
+    "homeSubAddress": "Franklin Street",
+    "email": "mail@gmail.com",
+    "homePhone": "(807) 596-2495",
+    "mobilePhone": "(941) 440-3771",
+    "workPhone": "(863) 402-2509",
+    "task": {
+      "type": "schedule",
+      "description": "2 interviews to schedule for Phone Interview",
+      "tasks": [
+        {
+          "id": 1,
+          "tittle": "Development Skills Phone Interview",
+          "status": "",
+          "type": "scheduled",
+          "interview": false
+        },
+        {
+          "id": 2,
+          "tittle": "Recruiter Skills Conference Skype Call",
+          "status": "Interview time was proposed 11 days ago",
+          "type": "scheduled",
+          "interview": false
+        }
+      ]
+    },
+    "avatar": "https://energylogistics.onepeterson.com/storage/configurations/energylogisticspetersoncontrolunioncomaccnakijkennl/images/ken_taylor_edit_for_webpage.jpg"
+  },
+  {
+    "id": 191,
+    "name": "Juliette Salas",
+    "position": "INFORMATION RESEARCH SCIENTIST",
+    "status": "Within Offer Process",
+    "attention": false,
+    "department": "Marketing Department",
+    "company": "Krag",
+    "startDate": "Tue Aug 29 2017 11:19:42 GMT+0000 (UTC)",
+    "nickname": "Emerson",
+    "birthDate": "Sun Sep 02 1990 12:53:41 GMT+0000 (UTC)",
+    "age": 29,
+    "workAddress": "528 Conway Street, Sabillasville, Tennessee, 4911",
+    "homeAddress": "Worcester",
+    "homeSubAddress": "Rapelye Street",
+    "email": "mail@gmail.com",
+    "homePhone": "(965) 472-3884",
+    "mobilePhone": "(853) 428-2049",
+    "workPhone": "(822) 488-3858",
+    "task": {
+      "type": "schedule",
+      "description": "2 interviews to schedule for Phone Interview",
+      "tasks": [
+        {
+          "id": 1,
+          "tittle": "Development Skills Phone Interview",
+          "status": "",
+          "type": "scheduled",
+          "interview": false
+        },
+        {
+          "id": 2,
+          "tittle": "Recruiter Skills Conference Skype Call",
+          "status": "Interview time was proposed 14 days ago",
+          "type": "scheduled",
+          "interview": false
+        }
+      ]
+    },
+    "avatar": "https://media1.fdncms.com/sacurrent/imager/u/original/7716141/juliette_danielle_3.jpg"
+  },
+  {
+    "id": 201,
+    "name": "Ester Avila",
+    "position": "IT MANAGER",
+    "status": "Within Offer Process",
+    "attention": false,
+    "department": "Marketing Department",
+    "company": "Grupoli",
+    "startDate": "Sat Nov 05 2016 10:01:09 GMT+0000 (UTC)",
+    "nickname": "Richard",
+    "birthDate": "Sat Nov 17 1984 14:44:15 GMT+0000 (UTC)",
+    "age": 36,
+    "workAddress": "773 Cass Place, Frystown, Hawaii, 3335",
+    "homeAddress": "Centerville",
+    "homeSubAddress": "Montrose Avenue",
+    "email": "mail@gmail.com",
+    "homePhone": "(858) 478-3371",
+    "mobilePhone": "(910) 521-2920",
+    "workPhone": "(818) 528-3032",
+    "task": {
+      "type": "waiting",
+      "description": "Waiting for candidate to submit test",
+      "tasks": [
+        {
+          "id": 1,
+          "tittle": "Development Skills Test",
+          "status": "Sent, 5 days ago",
+          "interview": false,
+          "type": "vendor"
+        }
+      ]
+    },
+    "avatar": "https://pbs.twimg.com/media/EOKpelxWkAYgAIg.jpg"
+  },
+  {
+    "id": 211,
+    "name": "Maggie Morris",
+    "position": "PROJECT MENEGER",
+    "status": "Hired",
+    "attention": false,
+    "department": "Marketing Department",
+    "company": "Katakana",
+    "startDate": "Sat Jun 21 2014 13:21:22 GMT+0000 (UTC)",
+    "nickname": "Gabrielle",
+    "birthDate": "Mon Mar 20 1978 12:13:13 GMT+0000 (UTC)",
+    "age": 31,
+    "workAddress": "714 Hewes Street, Hondah, Iowa, 315",
+    "homeAddress": "Olney",
+    "homeSubAddress": "Pierrepont Street",
+    "email": "mail@gmail.com",
+    "homePhone": "(919) 568-3358",
+    "mobilePhone": "(919) 436-2632",
+    "workPhone": "(946) 521-2386",
+    "task": {
+      "type": "test",
+      "description": "Take home Test to be sent",
+      "tasks": [
+        {
+          "id": 1,
+          "tittle": "Development Skills Test",
+          "status": "",
+          "type": "test",
+          "interview": false
+        }
+      ]
+    },
+    "avatar": "https://netstorage-legit.akamaized.net/images/eeec653cb6eea94d.jpg"
+  },
+  {
+    "id": 221,
+    "name": "Gutierrez Nguyen",
+    "position": "DATABASE ADMINISTRATOR",
+    "status": "Hired",
+    "attention": false,
+    "department": "Marketing Department",
+    "company": "Aclima",
+    "startDate": "Mon Oct 16 2017 12:17:29 GMT+0000 (UTC)",
+    "nickname": "Lorene",
+    "birthDate": "Fri Dec 11 1981 06:19:44 GMT+0000 (UTC)",
+    "age": 28,
+    "workAddress": "629 Coles Street, Elwood, Pennsylvania, 167",
+    "homeAddress": "Freetown",
+    "homeSubAddress": "Lefferts Place",
+    "email": "mail@gmail.com",
+    "homePhone": "(914) 447-3923",
+    "mobilePhone": "(947) 495-3851",
+    "workPhone": "(915) 423-3162",
+    "task": {
+      "type": "waiting",
+      "description": "Waiting for candidate to submit test",
+      "tasks": [
+        {
+          "id": 1,
+          "tittle": "Development Skills Test",
+          "status": "Sent, 15 days ago",
+          "interview": false,
+          "type": "vendor"
+        }
+      ]
+    },
+    "avatar": "https://yt3.ggpht.com/a/AGF-l7_LT5PjcOtMZ2c_RjLzbJ09W0V6k-f6-ZhETg=s900-c-k-c0xffffffff-no-rj-mo"
+  },
+  {
+    "id": 231,
+    "name": "Buchanan Osborn",
+    "position": "PHP DEVELOPER",
+    "status": "Within Offer Process",
+    "attention": false,
+    "department": "Marketing Department",
+    "company": "Rockabye",
+    "startDate": "Sat Jul 18 2009 03:56:50 GMT+0000 (UTC)",
+    "nickname": "Reid",
+    "birthDate": "Sat Jul 08 1989 14:12:28 GMT+0000 (UTC)",
+    "age": 26,
+    "workAddress": "232 Grattan Street, Moscow, West Virginia, 6088",
+    "homeAddress": "Mulberry",
+    "homeSubAddress": "Ralph Avenue",
+    "email": "mail@gmail.com",
+    "homePhone": "(927) 565-3363",
+    "mobilePhone": "(917) 417-2826",
+    "workPhone": "(825) 443-2072",
+    "task": {
+      "type": "review",
+      "description": "Application to be reviewed",
+      "tasks": [
+        {
+          "id": 1,
+          "tittle": "Development Skills Face to Face Interview",
+          "status": "w/Mary Brown in Head Office Tel Aviv at 4 PM",
+          "type": "review",
+          "interview": false
+        },
+        {
+          "id": 2,
+          "tittle": "PHP Skills Conference Skype Call",
+          "status": "w/Mary Brown at 4 PM",
+          "type": "review",
+          "interview": false
+        }
+      ]
+    },
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ7ubnolAj7o9LIueArN2zHPqWRjaLeEl0cSg_tXDhvlAC4y0b&s"
+  },
+  {
+    "id": 241,
+    "name": "Lloyd Jenkins",
+    "position": "DESIGNER",
+    "status": "Within Offer Process",
+    "attention": false,
+    "department": "Marketing Department",
+    "company": "Magmina",
+    "startDate": "Sun Mar 16 2014 07:20:18 GMT+0000 (UTC)",
+    "nickname": "Lora",
+    "birthDate": "Wed Oct 19 1988 06:21:02 GMT+0000 (UTC)",
+    "age": 34,
+    "workAddress": "158 Kings Place, Dorneyville, Palau, 1643",
+    "homeAddress": "Brownlee",
+    "homeSubAddress": "Jerome Street",
+    "email": "mail@gmail.com",
+    "homePhone": "(823) 496-2180",
+    "mobilePhone": "(876) 442-3564",
+    "workPhone": "(937) 579-3771",
+    "task": {
+      "type": "decision",
+      "description": "Needs decision \"Face to Face Interview\"",
+      "tasks": [
+        {
+          "id": 1,
+          "tittle": "Face To Face Interview",
+          "status": "",
+          "type": "interview",
+          "interview": {
+            "answer": "yes",
+            "interviewerName": "Alexandria Shannon",
+            "interviewerPhoto": "https://www.peakdentalarts.com/wp2016/wp-content/uploads/2016/07/Shannon.jpg"
+          }
+        },
+        {
+          "id": 2,
+          "tittle": "Advance Lloyd Jenkins to Offer?",
+          "status": "",
+          "type": "offer",
+          "interview": false
+        }
+      ]
+    },
+    "avatar": "https://i.work.ua/sent_photo/0/d/0/0d09898e0a7176a41f7c58a75992ae39.jpg"
+  },
+  {
+    "id": 251,
+    "name": "Elvia Pope",
+    "position": "RECRUITER",
+    "status": "Within Offer Process",
+    "attention": true,
+    "department": "Marketing Department",
+    "company": "Zenco",
+    "startDate": "Tue Jul 25 2006 15:39:27 GMT+0000 (UTC)",
+    "nickname": "Ward",
+    "birthDate": "Sat Apr 09 1983 23:02:19 GMT+0000 (UTC)",
+    "age": 37,
+    "workAddress": "846 Ridge Boulevard, Chilton, Kansas, 6371",
+    "homeAddress": "Disautel",
+    "homeSubAddress": "Schroeders Avenue",
+    "email": "mail@gmail.com",
+    "homePhone": "(910) 566-3115",
+    "mobilePhone": "(840) 466-3144",
+    "workPhone": "(813) 577-2516",
+    "task": {
+      "type": "interview",
+      "description": "2 interviews today",
+      "tasks": [
+        {
+          "id": 1,
+          "tittle": "Development Skills Face to Face Interview",
+          "status": "w/Mary Brown in Head Office Tel Aviv at 4 PM",
+          "type": "re-schedule",
+          "interview": false
+        },
+        {
+          "id": 2,
+          "tittle": "RECRUITER Skills Conference Skype Call",
+          "status": "w/Mary Brown at 4 PM",
+          "type": "re-schedule",
+          "interview": false
+        }
+      ]
+    },
+    "avatar": "https://i.pinimg.com/280x280_RS/f5/59/b1/f559b19a73cf207aee4171512bc8ae5d.jpg"
+  },
+  {
+    "id": 261,
+    "name": "Moss Bowers",
+    "position": "IT MANAGER",
+    "status": "Within Offer Process",
+    "attention": false,
+    "department": "Marketing Department",
+    "company": "Entogrok",
+    "startDate": "Sun Mar 30 2014 18:41:26 GMT+0000 (UTC)",
+    "nickname": "Diann",
+    "birthDate": "Thu Sep 08 1977 10:47:56 GMT+0000 (UTC)",
+    "age": 30,
+    "workAddress": "465 Juliana Place, Silkworth, Wyoming, 7282",
+    "homeAddress": "Byrnedale",
+    "homeSubAddress": "Vanderbilt Street",
+    "email": "mail@gmail.com",
+    "homePhone": "(885) 588-2376",
+    "mobilePhone": "(857) 501-3564",
+    "workPhone": "(899) 536-3527",
+    "task": {
+      "type": "test",
+      "description": "Take home Test to be sent",
+      "tasks": [
+        {
+          "id": 1,
+          "tittle": "Development Skills Test",
+          "status": "",
+          "type": "test",
+          "interview": false
+        }
+      ]
+    },
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk2LyddPD9lyaVYT8hSoLabFuPJdmtRuOKUmmOVFLtbzA_F3Ov&s"
+  },
+  {
+    "id": 271,
+    "name": "Liza Vang",
+    "position": "DATABASE ADMINISTRATOR",
+    "status": "Hired",
+    "attention": true,
+    "department": "Marketing Department",
+    "company": "Zytrex",
+    "startDate": "Wed May 10 2017 07:01:29 GMT+0000 (UTC)",
+    "nickname": "Gail",
+    "birthDate": "Thu Jun 22 1972 06:05:08 GMT+0000 (UTC)",
+    "age": 25,
+    "workAddress": "524 Kingston Avenue, Welda, Florida, 8281",
+    "homeAddress": "Ventress",
+    "homeSubAddress": "Wyckoff Street",
+    "email": "mail@gmail.com",
+    "homePhone": "(985) 564-2675",
+    "mobilePhone": "(912) 439-2130",
+    "workPhone": "(949) 483-2523",
+    "task": {
+      "type": "test",
+      "description": "Take home Test to be sent",
+      "tasks": [
+        {
+          "id": 1,
+          "tittle": "Development Skills Test",
+          "status": "",
+          "type": "test",
+          "interview": false
+        }
+      ]
+    },
+    "avatar": "https://www.superprof.co.uk/images/teachers/teacher-home-reliable-psychology-tutor-with-msc-degree-developmental-psychology-based-ashburton.jpg"
+  },
+  {
+    "id": 281,
+    "name": "Deirdre Martinez",
+    "position": "IT ANALYST",
+    "status": "Within Offer Process",
+    "attention": true,
+    "department": "Marketing Department",
+    "company": "Martgo",
+    "startDate": "Tue Nov 04 2008 07:06:50 GMT+0000 (UTC)",
+    "nickname": "Herring",
+    "birthDate": "Tue Jan 18 1977 06:04:36 GMT+0000 (UTC)",
+    "age": 43,
+    "workAddress": "707 Hubbard Street, Blende, Marshall Islands, 7931",
+    "homeAddress": "Kanauga",
+    "homeSubAddress": "Fulton Street",
+    "email": "mail@gmail.com",
+    "homePhone": "(873) 445-2147",
+    "mobilePhone": "(972) 490-2826",
+    "workPhone": "(846) 445-2392",
+    "task": {
+      "type": "interview",
+      "description": "2 interviews today",
+      "tasks": [
+        {
+          "id": 1,
+          "tittle": "Development Skills Face to Face Interview",
+          "status": "w/Mary Brown in Head Office Tel Aviv at 4 PM",
+          "type": "re-schedule",
+          "interview": false
+        },
+        {
+          "id": 2,
+          "tittle": "IT ANALYST Skills Conference Skype Call",
+          "status": "w/Mary Brown at 4 PM",
+          "type": "re-schedule",
+          "interview": false
+        }
+      ]
+    },
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRznYfun7J6TMh4gIfE5jTQkOyakHWG4oFgWmaYGxGfGpvg59uGA&s"
+  },
+  {
+    "id": 291,
+    "name": "Bowers Colon",
+    "position": "IT ANALYST",
+    "status": "Candidate Application Review",
+    "attention": false,
+    "department": "Marketing Department",
+    "company": "Miracula",
+    "startDate": "Thu Aug 10 2006 14:17:27 GMT+0000 (UTC)",
+    "nickname": "Kerr",
+    "birthDate": "Tue May 30 1989 16:06:50 GMT+0000 (UTC)",
+    "age": 35,
+    "workAddress": "751 Farragut Place, Gordon, South Carolina, 2391",
+    "homeAddress": "Jackpot",
+    "homeSubAddress": "Boerum Street",
+    "email": "mail@gmail.com",
+    "homePhone": "(808) 535-3070",
+    "mobilePhone": "(925) 534-3909",
+    "workPhone": "(997) 492-2078",
+    "task": {
+      "type": "decision",
+      "description": "Needs decision \"Face to Face Interview\"",
+      "tasks": [
+        {
+          "id": 1,
+          "tittle": "Face To Face Interview",
+          "status": "",
+          "type": "interview",
+          "interview": {
+            "answer": "yes",
+            "interviewerName": "Alexandria Shannon",
+            "interviewerPhoto": "https://www.peakdentalarts.com/wp2016/wp-content/uploads/2016/07/Shannon.jpg"
+          }
+        },
+        {
+          "id": 2,
+          "tittle": "Advance Bowers Colon to Offer?",
+          "status": "",
+          "type": "offer",
+          "interview": false
+        }
+      ]
+    },
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlHlnz7_udWpFoPnT4Jh-Jos3ol7ZITwLh549ljICbc3Hf4eYT0g&s"
+  }
+]
+}
