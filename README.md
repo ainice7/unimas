@@ -1,4 +1,4 @@
-# unimas-victoria
+# unimas
 
 > My cat&#39;s meow Nuxt.js project
 
@@ -7,6 +7,9 @@
 ``` bash
 # install dependencies
 $ npm run install
+
+#run local database
+$npm run api
 
 # serve with hot reload at localhost:3000
 $ npm run dev
